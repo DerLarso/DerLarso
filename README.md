@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- ❔  Who am i?              Im DerLarso just a student who wants to be a very very good programmer in the future :)
+- ❔  Who am i?:             Im DerLarso just a student who wants to be a very very good programmer in the future :)
+
 - 📖  Languages:             Java, Javascript, HTML, (a little bit of c++ and typescript)
+
 - 💼  Stuff I'm working on:  Nothing specific. Things I enjoy :D
+
 - ✨  Fun Fact:              If you like what I am working on, I would be very happy about a follow ;)
 
 ~ DerLarso
